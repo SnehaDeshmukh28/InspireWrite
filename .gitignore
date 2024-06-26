@@ -1,0 +1,14 @@
+# Ignore bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore environment variables file
+.env
+
+# models are of large sizes 
+models/
+.models/
